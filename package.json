@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tensorflow-models/qna": "^1.0.2"
+  }
+}
